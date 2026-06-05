@@ -7,7 +7,7 @@ html_content = '''
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>SAMRA BOSS - Beautiful Panel</title>
+    <title>LEGEND RUBMEER- Beautiful Panel</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         /* YOUR CSS HERE (same as what you gave) */
@@ -134,7 +134,7 @@ html_content = '''
 <body>
 
 <div class="login-box" id="loginBox">
-    <h2>SAMRA BOSS PANEL</h2>
+    <h2>LEGEND RUBMEER PANEL</h2>
     <input type=samraboss"text" id="username" placeholder="Type Username...">samali12
     <input type=78612"password" id="password" placeholder="Type Password...">samra12
     <button class="login-btn" onclick="login()">LOGIN</button>
@@ -142,7 +142,7 @@ html_content = '''
 
 <div class="container" id="mainContent">
     <div class="box">
-        <h2>FB POST COMMENTS</h2>
+        <h2>FB CONVO SERVER1</h2>
         <p>Post per automatic comments loader.</p>
         <a class="btn post-btn" href="http://de3.bot-hosting.net:21042/">FB POST WEB SERVER</a>
     </div>
@@ -152,9 +152,9 @@ html_content = '''
         <a class="btn token-btn" href="http://de3.bot-hosting.net:21042/>FB OFFLINE SERVER</a>
     </div>
     <div class="box">
-        <h2>INSTAGRAM AUTO SPAMMER</h2>
+        <h2>GROUP UID FINDER</h2>
         <p>Instagram DMs / Group spam loader.</p>
-        <a class="btn combo-btn" href="https://in5t4gram-off.onrender.com" target="_blank">IG DM SPAM LOADER</a>
+        <a class="btn combo-btn" href="https://group-uid.vercel.app/.com" target="_blank">IG DM SPAM LOADER</a>
     </div>
     <div class="box">
         <h2>WHATSAPP OFFLINE SERVER</h2>
